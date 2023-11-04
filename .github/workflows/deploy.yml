@@ -14,7 +14,9 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-      # Update references
+        with:
+          submodules: recursive
+
       - name: Setup Python
         uses: actions/setup-python@v4
         with:
