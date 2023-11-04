@@ -44,3 +44,19 @@ ipyleaflet
 # Python: plotting libraries (optional)
 plotly>=5,<6
 bqplot
+matplotlib==3.7.2
+numpy==1.25.1
+Pillow==10.0.0
+scipy==1.11.1
+scikit-image
+scikit-learn
+plotly
+pandas
+plotly
+kaleido
+psutil
+requests
+#sklearn
+sympy
+tinyik
+tornado
