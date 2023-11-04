@@ -50,7 +50,6 @@ Pillow==10.0.0
 scipy==1.11.1
 scikit-image
 scikit-learn
-plotly
 pandas
 plotly
 kaleido
