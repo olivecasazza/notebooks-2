@@ -56,7 +56,6 @@ plotly
 kaleido
 psutil
 requests
-#sklearn
 sympy
 tinyik
 tornado
